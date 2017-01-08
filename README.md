@@ -1,0 +1,1 @@
+Using data from CRISPR Finder database to extract array coordinates and genome accesion numbers for CRISPRS that are not hypothetical. The package also contains utility functions that are used for getting data from GenBank and Blast in order to identify bacteria which contain CRISPR/Cas type II system.
